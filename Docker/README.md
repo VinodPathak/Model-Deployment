@@ -9,3 +9,5 @@
 * https://rominirani.com/docker-tutorial-series-writing-a-dockerfile-ce5746617cd  
 * https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e  
 
+##### How to setup Deep Learning environment on AWS GPU instance  
+* https://towardsdatascience.com/how-to-set-up-deep-learning-machine-on-aws-gpu-instance-3bb18b0a2579  
